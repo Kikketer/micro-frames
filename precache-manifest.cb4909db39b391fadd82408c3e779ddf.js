@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9cda81da2de1657820eb",
+    "revision": "6717e7ebe2d9b1611a11",
     "url": "/micro-frames/static/css/main.5971a5e2.chunk.css"
   },
   {
-    "revision": "9cda81da2de1657820eb",
-    "url": "/micro-frames/static/js/main.0d721378.chunk.js"
+    "revision": "6717e7ebe2d9b1611a11",
+    "url": "/micro-frames/static/js/main.e86490ee.chunk.js"
   },
   {
     "revision": "896d128046ae0092aa02",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/micro-frames/static/js/2.136228cd.chunk.js"
   },
   {
-    "revision": "c500d4798e0d36df90b1090e53de7a00",
+    "revision": "8d7c0d5c5cedf67920065de54cd1277f",
     "url": "/micro-frames/index.html"
   }
 ];

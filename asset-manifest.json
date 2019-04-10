@@ -1,13 +1,13 @@
 {
   "main.css": "/micro-frames/static/css/main.5971a5e2.chunk.css",
-  "main.js": "/micro-frames/static/js/main.0d721378.chunk.js",
-  "main.js.map": "/micro-frames/static/js/main.0d721378.chunk.js.map",
+  "main.js": "/micro-frames/static/js/main.e86490ee.chunk.js",
+  "main.js.map": "/micro-frames/static/js/main.e86490ee.chunk.js.map",
   "runtime~main.js": "/micro-frames/static/js/runtime~main.87130098.js",
   "runtime~main.js.map": "/micro-frames/static/js/runtime~main.87130098.js.map",
   "static/js/2.136228cd.chunk.js": "/micro-frames/static/js/2.136228cd.chunk.js",
   "static/js/2.136228cd.chunk.js.map": "/micro-frames/static/js/2.136228cd.chunk.js.map",
   "index.html": "/micro-frames/index.html",
-  "precache-manifest.2098bbcf554cef8472eb0c19481c8417.js": "/micro-frames/precache-manifest.2098bbcf554cef8472eb0c19481c8417.js",
+  "precache-manifest.cb4909db39b391fadd82408c3e779ddf.js": "/micro-frames/precache-manifest.cb4909db39b391fadd82408c3e779ddf.js",
   "service-worker.js": "/micro-frames/service-worker.js",
   "static/css/main.5971a5e2.chunk.css.map": "/micro-frames/static/css/main.5971a5e2.chunk.css.map"
 }
